@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_custom_account_reports,custom_account_reports,model_account_aged_payable_dashboard_ninja,access_show_account_report_for_dashboard_ninja,1,1,1,1
