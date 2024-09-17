@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Custom Product move view Partner Name and Cost Unit",
-    'version': "17.0.0.0",
+    'version': "11.0.0.0",
     'category': "Product",
     'license': 'OPL-1',
     'price': '30.0',
     'currency': 'USD',
     'summary': """
-        View Product move tree view partner name and cost unit in odoo 12""",
+        View Product move tree view partner name and cost unit in odoo 11""",
 
     'description': """
-         View Product move tree view partner name and cost unit in odoo 12
+         View Product move tree view partner name and cost unit in odoo 11
          Unit price in view product move 
          Partner name in view product move
     """,
@@ -23,7 +23,6 @@
     # any module necessary for this one to work correctly
     'depends': ['base', 'stock'],
 
-    
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
